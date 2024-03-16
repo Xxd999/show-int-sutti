@@ -1,0 +1,26 @@
+{
+  "name": "show-int-sutti",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xxd999/show-int-sutti.git"
+  },
+  "keywords": [
+    "show-int-sutti"
+  ],
+  "author": "Xxd999",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xxd999/show-int-sutti/issues"
+  },
+  "homepage": "https://github.com/Xxd999/show-int-sutti#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "sutti-random-cat": "1.0.1",
+    "sutti-int": "1.0.0"
+  }
+}
